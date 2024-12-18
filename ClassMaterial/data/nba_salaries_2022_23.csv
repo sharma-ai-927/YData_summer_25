@@ -1,0 +1,468 @@
+PLAYER,POSITION,TEAM,SALARY
+De'Andre Hunter,SF,Atlanta Hawks,9.835881
+Jalen Johnson,SF,Atlanta Hawks,2.79264
+AJ Griffin,SF,Atlanta Hawks,3.53616
+Trent Forrest,SG,Atlanta Hawks,0.508891
+John Collins,PF,Atlanta Hawks,23.5
+Trae Young,PG,Atlanta Hawks,37.0965
+Vit Krejci,PG,Atlanta Hawks,1.563518
+Jarrett Culver,SF,Atlanta Hawks,0.260295
+Aaron Holiday,PG,Atlanta Hawks,1.968175
+Tyrese Martin,SG,Atlanta Hawks,1.017781
+Dejounte Murray,SG,Atlanta Hawks,17.07112
+Onyeka Okongwu,C,Atlanta Hawks,6.39516
+Clint Capela,C,Atlanta Hawks,18.206896
+Donovan Williams,SG,Atlanta Hawks,0.239822
+Mike Muscala,C,Boston Celtics,3.5
+Derrick White,SG,Boston Celtics,17.142857
+Justin Champagnie,SF,Boston Celtics,0.853241
+Mfiondu Kabengele,PF,Boston Celtics,0.508891
+JD Davison,SG,Boston Celtics,0.508891
+Robert Williams,C,Boston Celtics,10.714287
+Grant Williams,PF,Boston Celtics,4.306281
+Marcus Smart,PG,Boston Celtics,17.207142
+Al Horford,C,Boston Celtics,26.5
+Jaylen Brown,SF,Boston Celtics,29.776785
+Noah Vonleh,C,Boston Celtics,1.160955
+Justin Jackson,SF,Boston Celtics,1.83609
+Malcolm Brogdon,PG,Boston Celtics,22.6
+Blake Griffin,C,Boston Celtics,2.905851
+Sam Hauser,SF,Boston Celtics,1.637966
+Jayson Tatum,SF,Boston Celtics,30.35178
+Luke Kornet,C,Boston Celtics,2.133278
+Payton Pritchard,PG,Boston Celtics,2.2392
+Mikal Bridges,SF,Brooklyn Nets,20.1
+Spencer Dinwiddie,SG,Brooklyn Nets,19.5
+Day'Ron Sharpe,C,Brooklyn Nets,2.10948
+Edmond Sumner,SG,Brooklyn Nets,1.968175
+Kessler Edwards,SF,Brooklyn Nets,1.637966
+Yuta Watanabe,SF,Brooklyn Nets,1.968175
+Joe Harris,SF,Brooklyn Nets,18.642857
+Cam Thomas,SG,Brooklyn Nets,2.13816
+Dorian Finney-Smith,PF,Brooklyn Nets,12.939848
+Markieff Morris,PF,Brooklyn Nets,2.905851
+Kevin Durant,PF,Brooklyn Nets,44.119845
+Seth Curry,SG,Brooklyn Nets,8.496653
+Alondes Williams,SG,Brooklyn Nets,0.254446
+Kyrie Irving,PG,Brooklyn Nets,38.917057
+Cameron Johnson,PF,Brooklyn Nets,5.887899
+Royce O'Neale,SF,Brooklyn Nets,9.2
+Nerlens Noel,C,Brooklyn Nets,9.391069
+Dru Smith,SG,Brooklyn Nets,0.374357
+RaiQuan Gray,PF,Brooklyn Nets,0.005849
+Moses Brown,C,Brooklyn Nets,0.824041
+Ben Simmons,PG,Brooklyn Nets,35.448672
+James Bouknight,SG,Charlotte Bobcats,4.36224
+Kobi Simmons,SG,Charlotte Bobcats,0.032795
+Xavier Sneed,SF,Charlotte Bobcats,0.10291
+Kai Jones,C,Charlotte Bobcats,2.90904
+Cody Martin,SF,Charlotte Bobcats,7.0
+Nick Richards,C,Charlotte Bobcats,1.782621
+LaMelo Ball,PG,Charlotte Bobcats,8.62392
+Bryce McGowens,SG,Charlotte Bobcats,1.461055
+Gordon Hayward,SF,Charlotte Bobcats,30.075
+Terry Rozier,SG,Charlotte Bobcats,21.486316
+JT Thor,PF,Charlotte Bobcats,1.563518
+Mark Williams,C,Charlotte Bobcats,3.72204
+Dalen Terry,SG,Chicago Bulls,3.1914
+Andre Drummond,C,Chicago Bulls,3.2
+Alex Caruso,PG,Chicago Bulls,9.03
+Coby White,SG,Chicago Bulls,7.413955
+Tony Bradley,C,Chicago Bulls,2.036318
+Patrick Williams,PF,Chicago Bulls,7.7754
+Zach LaVine,SG,Chicago Bulls,37.0965
+Javonte Green,SF,Chicago Bulls,1.815677
+Carlik Jones,PG,Chicago Bulls,0.612162
+Terry Taylor,PF,Chicago Bulls,1.703902
+Marko Simonovic,C,Chicago Bulls,1.563518
+Ayo Dosunmu,SG,Chicago Bulls,1.563518
+Malcolm Hill,SF,Chicago Bulls,0.508891
+DeMar DeRozan,SF,Chicago Bulls,27.3
+Danny Green,SG,Cleveland Cavaliers,11.710528
+Isaiah Mobley,PF,Cleveland Cavaliers,0.508891
+Sam Merrill,SG,Cleveland Cavaliers,1.105522
+Mamadi Diakite,C,Cleveland Cavaliers,0.508891
+Raul Neto,PG,Cleveland Cavaliers,2.46349
+Dylan Windler,SF,Cleveland Cavaliers,4.037277
+Ricky Rubio,PG,Cleveland Cavaliers,5.853659
+Dean Wade,PF,Cleveland Cavaliers,1.930681
+Kevin Love,PF,Cleveland Cavaliers,30.556968
+Donovan Mitchell,SG,Cleveland Cavaliers,30.91375
+Evan Mobley,PF,Cleveland Cavaliers,8.47872
+Jarrett Allen,C,Cleveland Cavaliers,20.0
+Lamar Stevens,SF,Cleveland Cavaliers,1.782621
+Cedi Osman,SF,Cleveland Cavaliers,7.426088
+Caris LeVert,SG,Cleveland Cavaliers,18.796296
+Isaac Okoro,SF,Cleveland Cavaliers,7.04088
+Darius Garland,PG,Cleveland Cavaliers,8.920794
+Robin Lopez,C,Cleveland Cavaliers,2.905851
+Dwight Powell,C,Dallas Mavericks,11.080125
+JaVale McGee,C,Dallas Mavericks,5.461219
+Kemba Walker,PG,Dallas Mavericks,37.281261
+Facundo Campazzo,PG,Dallas Mavericks,0.464299
+Justin Holiday,SF,Dallas Mavericks,5.987975
+Chris Silva,PF,Dallas Mavericks,0.211045
+Tyler Dorsey,SF,Dallas Mavericks,0.201802
+Reggie Bullock,SF,Dallas Mavericks,10.0128
+Maxi Kleber,PF,Dallas Mavericks,9.0
+Theo Pinson,SG,Dallas Mavericks,1.968175
+Josh Green,SG,Dallas Mavericks,3.0984
+Frank Ntilikina,SG,Dallas Mavericks,2.036318
+Christian Wood,C,Dallas Mavericks,14.317459
+Jaden Hardy,SG,Dallas Mavericks,1.017781
+Reggie Jackson,PG,Denver Nuggets,11.457217
+Davon Reed,SG,Denver Nuggets,1.902133
+Aaron Gordon,PF,Denver Nuggets,20.690909
+Bruce Brown,SF,Denver Nuggets,6.479
+Peyton Watson,SG,Denver Nuggets,2.19396
+Bones Hyland,PG,Denver Nuggets,2.20152
+Kentavious Caldwell-Pope,SG,Denver Nuggets,14.004703
+Zeke Nnaji,PF,Denver Nuggets,2.6178
+Christian Braun,SG,Denver Nuggets,2.8086
+Jeff Green,PF,Denver Nuggets,4.5
+Thomas Bryant,C,Denver Nuggets,1.968175
+Jack White,SF,Denver Nuggets,0.508891
+Jamal Murray,PG,Denver Nuggets,31.6506
+DeAndre Jordan,C,Denver Nuggets,10.733758
+Stanley Umude,SG,Detroit Pistons,0.058493
+Jaden Ivey,SG,Detroit Pistons,7.2522
+Braxton Key,SF,Detroit Pistons,0.201802
+Kevin Knox,SF,Detroit Pistons,3.0
+Isaiah Livers,PF,Detroit Pistons,1.563518
+Jared Rhoden,SG,Detroit Pistons,0.307089
+Saddiq Bey,SF,Detroit Pistons,2.95908
+Eugene Omoruyi,SF,Detroit Pistons,1.013119
+Rodney McGruder,SG,Detroit Pistons,2.298385
+Cory Joseph,PG,Detroit Pistons,5.1555
+Alec Burks,SG,Detroit Pistons,10.0128
+Killian Hayes,PG,Detroit Pistons,5.83776
+Isaiah Stewart,C,Detroit Pistons,3.43332
+Hamidou Diallo,SF,Detroit Pistons,5.2
+Cade Cunningham,PG,Detroit Pistons,10.5528
+Buddy Boeheim,SF,Detroit Pistons,0.508891
+Jalen Duren,C,Detroit Pistons,4.12428
+Jordan Poole,PG,Golden State Warriors,3.901399
+Moses Moody,SG,Golden State Warriors,3.74016
+Donte DiVincenzo,SG,Golden State Warriors,4.5
+Ty Jerome,SG,Golden State Warriors,4.728948
+Ryan Rollins,PG,Golden State Warriors,1.017781
+Lester Quinones,SG,Golden State Warriors,0.129405
+Anthony Lamb,SF,Golden State Warriors,0.694878
+Andre Iguodala,PF,Golden State Warriors,2.905851
+Jonathan Kuminga,PF,Golden State Warriors,5.73984
+Stephen Curry,PG,Golden State Warriors,48.070014
+Klay Thompson,SF,Golden State Warriors,40.60008
+Kevon Looney,C,Golden State Warriors,8.0
+Andrew Wiggins,SF,Golden State Warriors,33.61677
+JaMychal Green,PF,Golden State Warriors,8.2
+James Wiseman,C,Golden State Warriors,9.60336
+Draymond Green,PF,Golden State Warriors,25.806468
+Gary Payton II,SG,Golden State Warriors,8.3
+Daishen Nix,PG,Houston Rockets,1.563518
+Darius Days,SF,Houston Rockets,0.508891
+Trevor Hudgins,PG,Houston Rockets,0.508891
+Eric Gordon,SG,Houston Rockets,19.56836
+Tari Eason,PF,Houston Rockets,3.35916
+Josh Christopher,SG,Houston Rockets,2.37216
+Jalen Green,SG,Houston Rockets,9.44184
+Jae'Sean Tate,SF,Houston Rockets,7.065217
+Garrison Mathews,SG,Houston Rockets,2.0
+Usman Garuba,C,Houston Rockets,2.47116
+Frank Kaminsky,C,Houston Rockets,2.46349
+Bruno Fernando,C,Houston Rockets,2.717391
+Isaiah Jackson,C,Indiana Pacers,2.57376
+Chris Duarte,SF,Indiana Pacers,3.93696
+Oshae Brissett,PF,Indiana Pacers,1.846738
+Buddy Hield,SF,Indiana Pacers,21.17775
+Andrew Nembhard,SG,Indiana Pacers,2.244111
+James Johnson,PF,Indiana Pacers,3.841067
+Tyrese Haliburton,PG,Indiana Pacers,4.21512
+Jalen Smith,C,Indiana Pacers,4.67016
+Gabe York,SG,Indiana Pacers,0.032171
+Aaron Nesmith,SF,Indiana Pacers,3.80436
+Myles Turner,C,Indiana Pacers,35.0965
+Kendall Brown,SG,Indiana Pacers,0.508891
+Daniel Theis,C,Indiana Pacers,8.694369
+Bennedict Mathurin,SG,Indiana Pacers,6.5868
+Trevelin Queen,SG,Indiana Pacers,0.838891
+John Wall,PG,Los Angeles Clippers,47.34576
+Ivica Zubac,C,Los Angeles Clippers,10.123457
+Amir Coffey,SF,Los Angeles Clippers,3.395062
+Marcus Morris,PF,Los Angeles Clippers,16.372093
+Xavier Moon,SG,Los Angeles Clippers,0.116986
+Norman Powell,SG,Los Angeles Clippers,16.758621
+Terance Mann,SG,Los Angeles Clippers,1.930681
+Luke Kennard,SG,Los Angeles Clippers,13.745455
+Paul George,SF,Los Angeles Clippers,42.492492
+Nicolas Batum,PF,Los Angeles Clippers,19.700319
+Jason Preston,PG,Los Angeles Clippers,1.563518
+Mason Plumlee,C,Los Angeles Clippers,9.080417
+Robert Covington,PF,Los Angeles Clippers,12.307692
+Kawhi Leonard,SF,Los Angeles Clippers,42.492492
+Sterling Brown,SF,Los Angeles Lakers,3.122602
+Mo Bamba,C,Los Angeles Lakers,10.3
+Patrick Beverley,SG,Los Angeles Lakers,13.801614
+Jarred Vanderbilt,PF,Los Angeles Lakers,4.374
+Wenyen Gabriel,C,Los Angeles Lakers,1.87872
+Damian Jones,C,Los Angeles Lakers,2.298385
+Russell Westbrook,PG,Los Angeles Lakers,47.080179
+Malik Beasley,SG,Los Angeles Lakers,15.558035
+Juan Toscano-Anderson,SF,Los Angeles Lakers,2.133278
+Kendrick Nunn,SG,Los Angeles Lakers,5.25
+LeBron James,PF,Los Angeles Lakers,44.474988
+Austin Reaves,SG,Los Angeles Lakers,1.563518
+Anthony Davis,C,Los Angeles Lakers,37.98072
+Max Christie,SG,Los Angeles Lakers,1.017781
+D'Angelo Russell,PG,Los Angeles Lakers,31.37775
+Matt Ryan,SF,Los Angeles Lakers,0.806097
+Rui Hachimura,PF,Los Angeles Lakers,6.263188
+Cole Swider,SF,Los Angeles Lakers,0.508891
+Dillon Brooks,SF,Memphis Grizzlies,11.4
+Ja Morant,PG,Memphis Grizzlies,12.11944
+Jake LaRavia,PF,Memphis Grizzlies,3.04764
+Kennedy Chandler,PG,Memphis Grizzlies,1.2
+David Roddy,PF,Memphis Grizzlies,2.58864
+Steven Adams,C,Memphis Grizzlies,17.926829
+Tyus Jones,PG,Memphis Grizzlies,15.0
+John Konchar,SF,Memphis Grizzlies,2.3
+Desmond Bane,SG,Memphis Grizzlies,2.13024
+Jacob Gilyard,PG,Memphis Grizzlies,0.005849
+Brandon Clarke,PF,Memphis Grizzlies,4.343919
+Ziaire Williams,SF,Memphis Grizzlies,4.59168
+Gabe Vincent,PG,Miami Heat,1.815677
+Duncan Robinson,SF,Miami Heat,16.902
+Max Strus,SF,Miami Heat,1.815677
+Haywood Highsmith,PF,Miami Heat,1.752638
+Omer Yurtseven,C,Miami Heat,1.752638
+Tyler Herro,SG,Miami Heat,5.722116
+Bam Adebayo,C,Miami Heat,30.35178
+Cody Zeller,C,Miami Heat,0.743922
+Kyle Lowry,PG,Miami Heat,28.333334
+Orlando Robinson,C,Miami Heat,0.386055
+Jamaree Bouyea,PG,Miami Heat,0.116986
+Victor Oladipo,SG,Miami Heat,8.75
+Jimmy Butler,PF,Miami Heat,37.6533
+Jamal Cain,PF,Miami Heat,0.508891
+Udonis Haslem,C,Miami Heat,2.905851
+Caleb Martin,SF,Miami Heat,6.479
+Grayson Allen,SG,Milwaukee Bucks,8.925
+Pat Connaughton,SF,Milwaukee Bucks,5.728393
+Joe Ingles,SF,Milwaukee Bucks,6.479
+Meyers Leonard,C,Milwaukee Bucks,0.713558
+Khris Middleton,SF,Milwaukee Bucks,37.984276
+Thanasis Antetokounmpo,PF,Milwaukee Bucks,1.87872
+Giannis Antetokounmpo,PF,Milwaukee Bucks,42.492492
+Jevon Carter,PG,Milwaukee Bucks,6.025
+Brook Lopez,C,Milwaukee Bucks,13.906976
+MarJon Beauchamp,SF,Milwaukee Bucks,2.4852
+Jae Crowder,PF,Milwaukee Bucks,10.1838
+Lindell Wigginton,PG,Milwaukee Bucks,0.099438
+Jordan Nwora,SF,Milwaukee Bucks,2.8
+Wesley Matthews,SF,Milwaukee Bucks,2.905851
+Jrue Holiday,PG,Milwaukee Bucks,34.31952
+Bobby Portis,PF,Milwaukee Bucks,10.84335
+Serge Ibaka,C,Milwaukee Bucks,2.905851
+George Hill,PG,Milwaukee Bucks,4.0
+Bryn Forbes,SG,Minnesota Timberwolves,2.298385
+Kyle Anderson,PF,Minnesota Timberwolves,8.780488
+Jaylen Nowell,SG,Minnesota Timberwolves,1.930681
+Josh Minott,SF,Minnesota Timberwolves,1.017781
+Luka Garza,C,Minnesota Timberwolves,0.508891
+Jaden McDaniels,SF,Minnesota Timberwolves,2.16144
+Jordan McLaughlin,PG,Minnesota Timberwolves,2.16
+Taurean Prince,PF,Minnesota Timberwolves,7.1
+Rudy Gobert,C,Minnesota Timberwolves,38.172414
+Mike Conley,PG,Minnesota Timberwolves,22.68
+Nickeil Alexander-Walker,SG,Minnesota Timberwolves,5.009633
+Anthony Edwards,SG,Minnesota Timberwolves,10.7334
+Karl-Anthony Towns,PF,Minnesota Timberwolves,33.8334
+Naz Reid,C,Minnesota Timberwolves,1.930681
+Austin Rivers,SG,Minnesota Timberwolves,2.905851
+Nathan Knight,C,Minnesota Timberwolves,1.83609
+Naji Marshall,SF,New Orleans Hornets,1.782621
+CJ McCollum,SG,New Orleans Hornets,33.333333
+Brandon Ingram,SF,New Orleans Hornets,31.6506
+Garrett Temple,SG,New Orleans Hornets,5.1555
+Dyson Daniels,PG,New Orleans Hornets,5.5086
+Zion Williamson,PF,New Orleans Hornets,13.534817
+Dereon Seabron,SG,New Orleans Hornets,0.511816
+Jose Alvarado,PG,New Orleans Hornets,1.563518
+Jaxson Hayes,C,New Orleans Hornets,6.803012
+Josh Richardson,SG,New Orleans Hornets,12.196094
+RJ Barrett,SG,New York Knicks,10.900634
+Miles McBride,PG,New York Knicks,1.563518
+Mitchell Robinson,C,New York Knicks,17.045454
+Trevor Keels,SG,New York Knicks,0.520589
+Jalen Brunson,PG,New York Knicks,27.733332
+Obi Toppin,PF,New York Knicks,5.34828
+Isaiah Hartenstein,C,New York Knicks,8.854879
+Julius Randle,PF,New York Knicks,23.76
+Evan Fournier,SG,New York Knicks,18.0
+Cam Reddish,SF,New York Knicks,5.954454
+Jericho Sims,C,New York Knicks,1.639842
+Quentin Grimes,SG,New York Knicks,2.277
+Ryan Arcidiacono,PG,New York Knicks,1.83609
+Immanuel Quickley,SG,New York Knicks,2.31624
+Derrick Rose,PG,New York Knicks,14.52073
+Josh Hart,SF,New York Knicks,12.96
+Isaiah Joe,SG,Oklahoma City Thunder,1.83609
+Lindy Waters III,SG,Oklahoma City Thunder,2.316876
+Darius Bazley,C,Oklahoma City Thunder,4.264628
+Ousmane Dieng,PF,Oklahoma City Thunder,4.56984
+Olivier Sarr,C,Oklahoma City Thunder,0.257371
+Aaron Wiggins,SG,Oklahoma City Thunder,1.563518
+Kenrich Williams,PF,Oklahoma City Thunder,2.0
+Jeremiah Robinson-Earl,PF,Oklahoma City Thunder,2.0
+Jaylin Williams,C,Oklahoma City Thunder,2.0
+Jalen Williams,SG,Oklahoma City Thunder,4.34148
+Tre Mann,PG,Oklahoma City Thunder,3.0462
+Shai Gilgeous-Alexander,PG,Oklahoma City Thunder,30.91375
+Josh Giddey,PF,Oklahoma City Thunder,6.2874
+Luguentz Dort,SF,Oklahoma City Thunder,15.277778
+Aleksej Pokusevski,PF,Oklahoma City Thunder,3.26148
+Jared Butler,PG,Oklahoma City Thunder,1.674655
+Michael Carter-Williams,PG,Orlando Magic,0.652829
+Moritz Wagner,C,Orlando Magic,1.87872
+Goga Bitadze,C,Orlando Magic,5.37752
+Admiral Schofield,PF,Orlando Magic,0.87794
+Franz Wagner,SF,Orlando Magic,5.25828
+Caleb Houstan,SF,Orlando Magic,2.0
+Bol Bol,PF,Orlando Magic,2.2
+Jonathan Isaac,PF,Orlando Magic,17.4
+Paolo Banchero,PF,Orlando Magic,11.05512
+Cole Anthony,PG,Orlando Magic,3.61368
+Kevon Harris,SG,Orlando Magic,0.508891
+Jalen Suggs,SG,Orlando Magic,6.92232
+Terrence Ross,SG,Orlando Magic,11.5
+Gary Harris,SG,Orlando Magic,13.0
+Chuma Okeke,SF,Orlando Magic,3.43332
+Jay Scrubb,SG,Orlando Magic,0.049719
+Markelle Fultz,PG,Orlando Magic,16.5
+De'Anthony Melton,SG,Philadelphia 76ers,8.25
+Dewayne Dedmon,C,Philadelphia 76ers,8.283688
+Matisse Thybulle,SF,Philadelphia 76ers,4.379526
+Montrezl Harrell,C,Philadelphia 76ers,2.46349
+Louis King,PF,Philadelphia 76ers,0.307089
+Paul Reed,C,Philadelphia 76ers,1.782621
+Jalen McDaniels,SF,Philadelphia 76ers,1.930681
+Saben Lee,PG,Philadelphia 76ers,2.26664
+Joel Embiid,C,Philadelphia 76ers,33.61677
+Shake Milton,SG,Philadelphia 76ers,1.997718
+Georges Niang,PF,Philadelphia 76ers,3.465
+Furkan Korkmaz,SG,Philadelphia 76ers,5.0
+Tyrese Maxey,SG,Philadelphia 76ers,2.72688
+Jaden Springer,SG,Philadelphia 76ers,2.1252
+Tobias Harris,SF,Philadelphia 76ers,37.63305
+James Harden,PG,Philadelphia 76ers,33.0
+Mac McClung,SG,Philadelphia 76ers,0.160856
+Chris Paul,PG,Phoenix Suns,28.4
+Bismack Biyombo,C,Phoenix Suns,2.905851
+Deandre Ayton,C,Phoenix Suns,30.91375
+Landry Shamet,SG,Phoenix Suns,9.5
+Cameron Payne,PG,Phoenix Suns,6.0
+Damion Lee,SG,Phoenix Suns,2.133278
+Torrey Craig,PF,Phoenix Suns,5.121951
+Devin Booker,SG,Phoenix Suns,33.8334
+Josh Okogie,SG,Phoenix Suns,1.968175
+Jock Landale,C,Phoenix Suns,1.563518
+Jabari Walker,SF,Portland Trail Blazers,1.017781
+John Butler,C,Portland Trail Blazers,0.503041
+Shaedon Sharpe,SG,Portland Trail Blazers,6.01296
+Shaquille Harrison,SG,Portland Trail Blazers,0.134862
+Skylar Mays,PG,Portland Trail Blazers,0.116574
+Jeenathan Williams,SG,Portland Trail Blazers,0.052644
+Trendon Watford,PF,Portland Trail Blazers,1.563518
+Justin Minaya,SF,Portland Trail Blazers,0.035096
+Damian Lillard,PG,Portland Trail Blazers,42.492492
+Anfernee Simons,SG,Portland Trail Blazers,22.321429
+Nassir Little,SF,Portland Trail Blazers,4.171548
+Justise Winslow,PF,Portland Trail Blazers,4.097561
+Keon Johnson,SG,Portland Trail Blazers,2.68104
+Drew Eubanks,C,Portland Trail Blazers,1.968175
+Jerami Grant,PF,Portland Trail Blazers,20.955
+Chimezie Metu,PF,Sacramento Kings,1.91086
+KZ Okpala,PF,Sacramento Kings,1.902133
+Matthew Dellavedova,PG,Sacramento Kings,2.628597
+Trey Lyles,PF,Sacramento Kings,2.625
+Terence Davis,SG,Sacramento Kings,4.0
+PJ Dozier,SF,Sacramento Kings,0.784654
+Harrison Barnes,PF,Sacramento Kings,18.352273
+Alex Len,C,Sacramento Kings,3.9186
+Neemias Queta,C,Sacramento Kings,0.508891
+Domantas Sabonis,C,Sacramento Kings,21.1
+Deonte Burton,PF,Sacramento Kings,0.105522
+De'Aaron Fox,PG,Sacramento Kings,30.35178
+Richaun Holmes,C,Sacramento Kings,11.21526
+Kevin Huerter,SG,Sacramento Kings,14.508929
+Chima Moneke,SF,Sacramento Kings,0.5
+Davion Mitchell,PG,Sacramento Kings,4.8336
+Keon Ellis,SG,Sacramento Kings,0.508891
+Keegan Murray,SF,Sacramento Kings,8.00844
+Malik Monk,SG,Sacramento Kings,9.472219
+Isaiah Roby,PF,San Antonio Spurs,2.330681
+Jeremy Sochan,PF,San Antonio Spurs,5.06352
+Blake Wesley,SG,San Antonio Spurs,2.38548
+Devin Vassell,SG,San Antonio Spurs,4.437
+Malaki Branham,SG,San Antonio Spurs,2.9256
+Stanley Johnson,SF,San Antonio Spurs,4.022164
+Alize Johnson,PF,San Antonio Spurs,0.192293
+Gorgui Dieng,C,San Antonio Spurs,4.105236
+Zach Collins,C,San Antonio Spurs,7.35
+Sandro Mamukelashvili,C,San Antonio Spurs,1.116112
+Keldon Johnson,SF,San Antonio Spurs,3.873024
+Jordan Hall,SF,San Antonio Spurs,0.193027
+Doug McDermott,SF,San Antonio Spurs,13.75
+Romeo Langford,SG,San Antonio Spurs,5.634257
+Jakob Poeltl,C,San Antonio Spurs,9.398148
+Charles Bassey,C,San Antonio Spurs,2.674742
+Keita Bates-Diop,PF,San Antonio Spurs,1.87872
+Dominick Barlow,PF,San Antonio Spurs,0.508891
+Tre Jones,PG,San Antonio Spurs,1.782621
+Julian Champagnie,SF,San Antonio Spurs,0.508891
+Khem Birch,C,Toronto Raptors,6.6675
+Joe Wieskamp,SF,Toronto Raptors,2.909261
+Precious Achiuwa,C,Toronto Raptors,2.84016
+Scottie Barnes,SF,Toronto Raptors,7.6446
+Dalano Banton,PG,Toronto Raptors,1.563518
+Christian Koloko,C,Toronto Raptors,1.5
+Malachi Flynn,PG,Toronto Raptors,2.14572
+Thaddeus Young,PF,Toronto Raptors,8.0
+Pascal Siakam,PF,Toronto Raptors,35.448672
+Jeff Dowtin,PG,Toronto Raptors,0.508891
+Fred VanVleet,PG,Toronto Raptors,21.25
+Chris Boucher,PF,Toronto Raptors,12.69
+OG Anunoby,SF,Toronto Raptors,17.357143
+Micah Potter,PF,Utah Jazz,0.508891
+Kris Dunn,PG,Utah Jazz,1.000001
+Walker Kessler,C,Utah Jazz,2.6964
+Jarrell Brantley,PF,Utah Jazz,0.105522
+Ochai Agbaji,SG,Utah Jazz,3.91836
+Jordan Clarkson,SG,Utah Jazz,13.34
+Kelly Olynyk,C,Utah Jazz,12.804878
+Collin Sexton,PG,Utah Jazz,16.7
+Simone Fontecchio,SF,Utah Jazz,3.205128
+Talen Horton-Tucker,SG,Utah Jazz,10.26
+Lauri Markkanen,PF,Utah Jazz,16.475454
+Rudy Gay,PF,Utah Jazz,6.1845
+Udoka Azubuike,C,Utah Jazz,2.17488
+Johnny Juzang,SG,Utah Jazz,0.508891
+Leandro Bolmaro,SF,Utah Jazz,1.7093
+Frank Jackson,PG,Utah Jazz,0.113114
+Jordan Schakel,SF,Washington Wizards,0.096514
+Jordan Goodwin,PG,Washington Wizards,1.280206
+Taj Gibson,C,Washington Wizards,2.905851
+Monte Morris,PG,Washington Wizards,9.125
+Isaiah Todd,PF,Washington Wizards,1.575
+Anthony Gill,PF,Washington Wizards,1.83609
+Bradley Beal,SG,Washington Wizards,43.27925
+Xavier Cooks,PF,Washington Wizards,0.140384
+Devon Dotson,PG,Washington Wizards,0.16963
+Daniel Gafford,C,Washington Wizards,1.930681
+Quenton Jackson,PG,Washington Wizards,0.21963
+Kyle Kuzma,PF,Washington Wizards,13.0
+Corey Kispert,SF,Washington Wizards,3.55284
+Johnny Davis,SG,Washington Wizards,4.81032
+Will Barton,SG,Washington Wizards,15.059712
+Deni Avdija,SF,Washington Wizards,4.91616
+Jay Huff,C,Washington Wizards,0.116986
+Delon Wright,PG,Washington Wizards,7.804878
