@@ -41,7 +41,7 @@ dependencies:
   - sympy
   - quarto
   - pip:
-
     - datascience
     - https://github.com/sharma-ai-927/YData_package/tarball/master
+
 
