@@ -1,4 +1,4 @@
-name: ydata_2025spring_v1
+name: ydata_summer_25
 channels:
   - conda-forge
   - defaults
@@ -41,5 +41,6 @@ dependencies:
   - sympy
   - quarto
   - pip:
+
     - datascience
-    - https://github.com/lederman/YData_package/tarball/master
+    - https://github.com/sharma-ai-927/YData_package/tarball/master
